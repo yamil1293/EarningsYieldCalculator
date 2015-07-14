@@ -1,0 +1,16 @@
+c:\users\home.pc\documents\visual studio 2010\Projects\Earnings Yield Calculator\Earnings Yield Calculator\bin\Debug\Earnings Yield Calculator.exe
+c:\users\home.pc\documents\visual studio 2010\Projects\Earnings Yield Calculator\Earnings Yield Calculator\bin\Debug\Earnings Yield Calculator.pdb
+c:\users\home.pc\documents\visual studio 2010\Projects\Earnings Yield Calculator\Earnings Yield Calculator\obj\x86\Debug\CIS_4620_Financial_IT_Assignment_1.Form1.resources
+c:\users\home.pc\documents\visual studio 2010\Projects\Earnings Yield Calculator\Earnings Yield Calculator\obj\x86\Debug\CIS_4620_Financial_IT_Assignment_1.Properties.Resources.resources
+c:\users\home.pc\documents\visual studio 2010\Projects\Earnings Yield Calculator\Earnings Yield Calculator\obj\x86\Debug\Earnings Yield Calculator.csproj.GenerateResource.Cache
+c:\users\home.pc\documents\visual studio 2010\Projects\Earnings Yield Calculator\Earnings Yield Calculator\obj\x86\Debug\Earnings Yield Calculator.exe
+c:\users\home.pc\documents\visual studio 2010\Projects\Earnings Yield Calculator\Earnings Yield Calculator\obj\x86\Debug\Earnings Yield Calculator.pdb
+C:\Users\Home.PC\Desktop\CIS 4620 Projects\Earnings Yield Calculator\Earnings Yield Calculator\obj\x86\Debug\CIS_4620_Financial_IT_Assignment_1.Form1.resources
+C:\Users\Home.PC\Desktop\CIS 4620 Projects\Earnings Yield Calculator\Earnings Yield Calculator\obj\x86\Debug\CIS_4620_Financial_IT_Assignment_1.Properties.Resources.resources
+C:\Users\Home.PC\Desktop\CIS 4620 Projects\Earnings Yield Calculator\Earnings Yield Calculator\obj\x86\Debug\Earnings Yield Calculator.csproj.GenerateResource.Cache
+C:\Users\Home.PC\Desktop\CIS 4620 Projects\Earnings Yield Calculator\Earnings Yield Calculator\obj\x86\Debug\CIS 4620 Financial IT Assignment 1.exe
+C:\Users\Home.PC\Desktop\CIS 4620 Projects\Earnings Yield Calculator\Earnings Yield Calculator\obj\x86\Debug\CIS 4620 Financial IT Assignment 1.pdb
+C:\Users\Home.PC\Desktop\CIS 4620 Projects\Earnings Yield Calculator\Earnings Yield Calculator\bin\Debug\CIS 4620 Financial IT Assignment 1.exe
+C:\Users\Home.PC\Desktop\CIS 4620 Projects\Earnings Yield Calculator\Earnings Yield Calculator\bin\Debug\CIS 4620 Financial IT Assignment 1.pdb
+C:\Users\Home.PC\Desktop\Earnings Yield Calculator\Earnings Yield Calculator\obj\x86\Debug\CIS 4620 Financial IT Assignment 1.exe
+C:\Users\Home.PC\Desktop\Earnings Yield Calculator\Earnings Yield Calculator\obj\x86\Debug\CIS 4620 Financial IT Assignment 1.pdb
