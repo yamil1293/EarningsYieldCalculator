@@ -6,7 +6,7 @@
 ![](demo.png)
 
 ## Installation
-Needs Visual Studio and a connection to Bloomberg Terminal in order to run this Windows Form.
+Needs Visual Studio in order to run this Windows Form.
 
 ## Instructions
 The Earnings Yield Calculator works by inputting the values for Profit, Shares Outstanding and Share Price into their respective fields. Then press Calculate to get the Earnings Per Share and Earnings Yield results.
